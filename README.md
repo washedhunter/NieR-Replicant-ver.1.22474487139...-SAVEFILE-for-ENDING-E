@@ -1,6 +1,6 @@
 # NieR-Replicant-ver.1.22474487139...-SAVEFILE-for-ENDING-E
 
-WIP 
+after ending D - all story quests done making ending E access available. Just head onto the next story mission to trigger ending E. 
 
 Below contains spoiler about NieR Replicant ver.1.22474487139... 
 
@@ -8,6 +8,5 @@ Below contains spoiler about NieR Replicant ver.1.22474487139...
 
 <details>
   <summary>⚠️ Spoiler — click to reveal</summary>
-  After choosing ending D, all your save files and progress is deleted before you can start a new game to play ending E.
-  You can use this save file to play the ending E 
+  save starts with MC's part, you must trigger ending E in order to play as Kaine
 </details>
